@@ -1,0 +1,69 @@
+Name	Classification	Manufacturer	Unit Cost	Manufacturer  code	In Stock	Reorder level
+Bogart Solar Charge Controller	PWM Controller	Bogart	$145.00	BE-SC2030	2	2
+Bogart Temp Sensor for SC2030	Temperture sensor	Bogart	$15.00	BE-TS2	1	5
+DEKA Gel - 6V - 180ah Battery - 8GGC2-DEKA	Lead-Acid Battery	DEKA	$292.00	DK-8GGC2	4	2
+DEKA Flooded L16 - 6V 370aH Battery - 8L16LTP-DEKA	Lead-Acid Battery	DEKA	$352.00	DK-L16LTP	21	10
+Discover AES Li Battery - 44-24-2800	Lithium Battery	Discover	"$2,999.00"	DI-LI-44-24	5	2
+Discover AES LiFePo Battery - 42-48-6650	Lithium Battery	Discover	"$6,479.00"	DI-LI-42-48	3	2
+"Eclipse 12V, 100ah LIFEPO4 Battery V2"	Lithium Battery	Eclipse	$849.00	E-12-100-V2	3	3
+"Eclipse 12V, 400ah LIFEPO4 Battery Version 2"	Lithium Battery	Eclipse	"$3,840.00"	E-12-400-V2	4	2
+"Eclipse 24V, 200ah LIFEPO4 Battery"	Lithium Battery	Eclipse	"$3,940.00"	E-12-200-V3	2	1
+Adjustable Roof/Ground/Wall Mount- 2 Large 72 Cell Modules	Mount	General Specialties	$228.00	RAILLRG-72	4	4
+Adjustable Roof/Ground/Wall Mount- 2 Large Modules	Mount	General Specialties	$190.00	RAILLRG	7	5
+Adjustable Roof/Ground/Wall Mount for 2 medium modules	Mount	General Specialties	$144.00	RAILS	1	1
+Heliene 320W 60C PV Module	Solar PV	Heliene	$264.00	HELI-320	6	3
+Heliene 390W 72M PV Module - Black on Black	Solar PV	Heliene	$325.00	HELI-390	40	20
+Heliene 400W 72M G1 Bifacial Mod-CLR	Solar PV	Heliene	$366.00	HELI-400	1	0
+IOTA IQ4 LIFEPO Smart Charge Controller	Controller	Iota	$28.00	IOTA-IQ-LI	2	1
+110 amp Class T Fuse	Fuse	Littlefuse	$33.00	O-T110	25	15
+15 amp Class R Fuse	Fuse	Littlefuse	$9.00	O-FUSE15	13	10
+Magnum PT-100 MPPT Charge Controller	MPPT Controller	Magnum	"$1,070.00"	ME-PT100	3	2
+Magnum 4400W 48VDC 120/240VAC Inverter	Inverter	Magnum	"$2,221.00"	ME-MS4448PAE	3	1
+Magnum 4000W 24VDC 120/240VAC Inverter	Inverter	Magnum	"$2,026.00"	ME-MS4024PAE	5	4
+Midnite Classic 150 Charge Controller	MPPT Controller	Midnite	$720.00	MID-MPPT150	4	2
+Midnite Classic 200 Charge Controller	MPPT Controller	Midnite	$720.00	MID-MPPT200	2	1
+Midnite Classic 250 Charge Controller	MPPT Controller	Midnite	$825.00	MID-MPPT250	7	5
+Midnite Solar Temperature Sensor - MNBTS	Temperature sensor	Midnite	$30.00	MID-BTS	4	3
+Midnite Brat 30A PWM Charge Controller	PWM Controller	Midnite	$115.00	MID-BRAT	7	3
+240V 30A AC NEMA 3R 2 Pole Disconnect	Disconnect box	NEMA	$85.00	AC30FUSED-2	6	3
+QO612L100S Six Space/Twelve Circuit Load Center - Breaker Box ONLY	Breaker box	NEMA	$53.00	O-QOBOX	8	5
+DC 80A Breaker w/ 2 panel mount screws	Breaker	NEMA	$71.00	O-CD80	6	2
+Front (Panel) Mount Breaker - 100A 125 VDC 1 inch Wide - CD100	Breaker	NEMA	$80.00	CD100	17	10
+Outback FM80 80A Charge Controller	MPPT Controller	Outback	$550.00	OB-FM80	2	1
+"Outback Flexmax 100 - 100A, 300VDC MPPT Charge Controller"	MPPT Controller	Outback	"$1,074.00"	OB-FM100	5	3
+Outback Temperature Sensor	Temperature sensor	Outback	$44.00	OB-TEMP	1	0
+Primus Air 30 Wind Turbine	Wind turbines	Primus	$952.00	PR-AIR30	4	2
+Primus Air 40 Wind Turbine	Wind turbines	Primus	$953.00	PR-AIR40	2	1
+Primus Air X Wind Turbine	Wind turbines	Primus	"$1,190.00"	PR-AIRX-M	5	4
+Primus Air Breeze Wind Turbine	Wind turbines	Primus	"$1,190.00"	PR-AIRBREZ	8	5
+Primus Air 30 & Air X Marine Blade Set	Blade Set	Primus	$135.00	PR-BLD30-X	2	1
+Primus Air 40 & Air Breeze Marine Blade Set	Blade Set	Primus	$136.00	PR-BLD40-BR	4	3
+Primus 29? EZ Tower Kit	Tower	Primus	$829.00	PR-TWR-29EZ	2	1
+Primus 27? Guyed Tower Kit	Tower	Primus	$275.00	PR-TWR-27	1	0
+Primus 45' Guyed Tower Kit	Tower	Primus	$460.00	PR-TWR-45	3	2
+REC 310PE72 - 72 Cell 310W Multi-crystalline Solar Module	Solar PV	REC	$215.00	REC310-LCL	23	17
+Schneider 60A MPPT Charge Controller	MPPT Controller	Schneider Electric	$603.00	XWMPPT60	1	0
+Schneider 80 Amp 600 Volt MPPT Charge Controller	MPPT Controller	Schneider Electric	"$1,299.00"	XWMPPT80	2	1
+Schneider 100 Amp 600 Volt MPPT Charge Controller	MPPT Controller	Schneider Electric	"$1,455.00"	XWMPPT100	1	0
+Schneider Electric C35 Control ONLY	PWM Controller	Schneider Electric	$104.00	C-35-ONLY	1	0
+Schneider Electric C40 Control ONLY	PWM Controller	Schneider Electric	$147.00	C-40-ONLY	3	2
+Schneider Electric C60 Control ONLY	PWM Controller	Schneider Electric	$169.00	C-60-ONLY	3	1
+Schneider Electric Conext XW PRO Inverter/Charger	Inverter	Schneider Electric	"$3,790.00"	SC-XWPRO6848	2	1
+Schneider SW4048 Inverter/Charger	Inverter	Schneider Electric	"$1,654.00"	SC-SW4048	4	2
+Front (Panel) Mount Breaker - 125A 125VDC 1 inch Wide	Breaker	Schneider Electric	$80.00	CD125	12	6
+Sonali Solar 100W 12V 36 Cell Polycrystalline PV Module	Solar PV	Sonali	$150.00	S100	29	21
+Sun7Solar 200 Watt 72 Cell Mono-Crystalline Module	Solar PV	Sun 7 Solar	$200.00	GP-SOL200	12	5
+Surrette Industrial Battery - 4V 1350AH - 4-KS-25PS	Lead-Acid Battery	Surrette	"$1,140.00"	4-KS-25PS	6	2
+"Ground, Roof, and Awning Mount; 125 inch Channel"	Mount	Tamarack	$325.00	UNI-GR125CV	2	1
+"Ground, Roof, and Awning Mount; 110 inch Channel"	Mount	Tamarack	$326.00	UNI-GR110CV	4	3
+"Ground, Roof, and Awning Mount; 90 inch Channel"	Mount	Tamarack	$327.00	UNI-GR90CV	3	2
+"Ground, Roof, and Awning Mount; 70 inch Channel"	Mount	Tamarack	$328.00	UNI-GR70CV	1	0
+Tamarack Solar 4-Panel Ground Mount Kit-AddOn	Mount	Tamarack	$500.00	TSP-GMKT-A4	4	3
+Tamarack Solar 4-Panel Ground Mount Kit-First	Mount	Tamarack	$620.00	TSP-GMKT-F5	2	1
+Trojan SPRE06415 Batteries (formerly L16RE-B)	Lead-Acid Battery	Trojan	$409.00	SPRE06415	15	13
+US Battery 6V 420Ah L16 Flooded Deep Cycle Battery	Lead-Acid Battery	US Battery	$407.00	US-L16HC-420	15	10
+US Battery 6V 385Ah L16 Flooded Deep Cycle Battery	Lead-Acid Battery	US Battery	$370.00	US-L16-385	18	7
+Victron Energy Quattro 48/10000/140-100/100 120V VE.Bus	Inverter	Victron	"$3,960.00"	VC-QU-4810000	2	1
+Victron Energy Quattro 48/5000/70-100/100 120V VE.Bus	Inverter	Victron	"$2,578.00"	VC-QU-485000	3	2
+Victron Energy MultiPlus-II 48/3000/35-50 120V VE.Bus	Inverter	Victron	"$1,303.00"	VC-MP2-483000	2	1
+Vikram Solar Eldora 30W Module - 12V	Solar PV	Vikram	$44.00	VK-30	4	2

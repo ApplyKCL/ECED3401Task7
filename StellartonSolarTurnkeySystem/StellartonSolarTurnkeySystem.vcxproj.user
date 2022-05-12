@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>C:\Users\shaon\source\repos\StellartonSolarTurnkeySystem\Debug\Products.txt C:\Users\shaon\source\repos\StellartonSolarTurnkeySystem\Debug\Customers.txt C:\Users\shaon\source\repos\StellartonSolarTurnkeySystem\Debug\Suppliers.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

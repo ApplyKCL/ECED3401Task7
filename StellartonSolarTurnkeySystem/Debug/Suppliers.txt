@@ -1,0 +1,24 @@
+Manufacturer	Contact	Company	Address	Telephone	Email
+Bogart	Almahanad Al Farsi	Canadian Solar Systems	"147 Suite C, Windsor Industrial Park, Windsor, ON, M5V219"	616-607-9145	Al@CanSolSys.ca
+DEKA	Hannah Gonzales	Evergreen Technologies	"448 Metcafe Street, Ottawa, ON, M03 2X4"	613-632-4501	HG@EverGreenTech.ca
+Discover	Mark Wentworth	Union Electric	"71940-A, Billing Business Part, Markham, ON, M2E 4V7"	416-444-3245	MarkW@UnionElectric.ca
+Eclipse	Ruslan Yasir Chowdhury	RYC Renewable Energy	"2147 Great Western Road, Edmonton, AB, T3R 4F1"	203-424-9045	Ruslan.Y.Chowdhury@RYCRenewableEnergy.ca
+General Specialties	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+Heliene	Almahanad Al Farsi	Canadian Solar Systems	"147 Suite C, Windsor Industrial Park, Windsor, ON, M5V219"	616-607-9145	Al@CanSolSys.ca
+Iota	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+Littlefuse	Ruslan Yasir Chowdhury	RYC Renewable Energy	"2147 Great Western Road, Edmonton, AB, T3R 4F1"	203-424-9045	Ruslan.Y.Chowdhury@RYCRenewableEnergy.ca
+Magnum	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+Midnite	James Vaughan	Excel Renewables	"54057 Portage, Winnipeg, MB, R1G 2T8"	302-902-1258	Ja@ExRen.ca
+NEMA	Ruslan Yasir Chowdhury	RYC Renewable Energy	"2147 Great Western Road, Edmonton, AB, T3R 4F1"	203-424-9045	Ruslan.Y.Chowdhury@RYCRenewableEnergy.ca
+Outback	Almahanad Al Farsi	Canadian Solar Systems	"147 Suite C, Windsor Industrial Park, Windsor, ON, M5V219"	616-607-9145	Al@CanSolSys.ca
+Primus	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+REC	Mark Wentworth	Union Electric	"71940-A, Billing Business Part, Markham, ON, M2E 4V7"	416-444-3245	MarkW@UnionElectric.ca
+Schneider Electric	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+Sonali	Ruslan Yasir Chowdhury	RYC Renewable Energy	"2147 Great Western Road, Edmonton, AB, T3R 4F1"	203-424-9045	Ruslan.Y.Chowdhury@RYCRenewableEnergy.ca
+Sun 7 Solar	Zhenze Zhao	Canadian Renewable Suppliers	"1 Solar Way, Renewables Business Park, New Westminster, BC, V4C 3A3"	717-802-0000	Zhenze@CanadianRenewableSuppliers.ca
+Surrette	Mark Wentworth	Union Electric	"71940-A, Billing Business Part, Markham, ON, M2E 4V7"	416-444-3245	MarkW@UnionElectric.ca
+Tamarack	Mark Wentworth	Union Electric	"71940-A, Billing Business Part, Markham, ON, M2E 4V7"	416-444-3245	MarkW@UnionElectric.ca
+Trojan	Almahanad Al Farsi	Canadian Solar Systems	"147 Suite C, Windsor Industrial Park, Windsor, ON, M5V219"	616-607-9145	Al@CanSolSys.ca
+US Battery	Mark Wentworth	Union Electric	"71940-A, Billing Business Part, Markham, ON, M2E 4V7"	416-444-3245	MarkW@UnionElectric.ca
+Victron	Hannah Gonzales	Evergreen Technologies	"448 Metcafe Street, Ottawa, ON, M03 2X4"	613-632-4501	HG@EverGreenTech.ca
+Vikram	Hannah Gonzales	Evergreen Technologies	"448 Metcafe Street, Ottawa, ON, M03 2X4"	613-632-4501	HG@EverGreenTech.ca

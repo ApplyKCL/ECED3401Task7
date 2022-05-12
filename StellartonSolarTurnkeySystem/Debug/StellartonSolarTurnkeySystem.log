@@ -1,0 +1,26 @@
+﻿  AddNewRec.c
+  BackUpOrder.c
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\BackUpOrder.c(81,63): warning C4144: '>': relational expression as switch expression
+  CancalOrder.c
+  ConvFileTB.c
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\ConvFileTB.c(27,52): warning C4020: 'strcpy': too many actual parameters
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\ConvFileTB.c(77,50): warning C4020: 'strcpy': too many actual parameters
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\ConvFileTB.c(134,53): warning C4020: 'strcpy': too many actual parameters
+  Date.c
+  DelRec.c
+  IDaccess.c
+  Initial.c
+  InitialFiledAddr.c
+  IOfile.c
+  Main.c
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\Main.c(146,37): warning C4020: 'UpdateRecUI': too many actual parameters
+  MakeSales.c
+  ORDERS.c
+  PayDueReminder.c
+  SeqRead.c
+  TDPromAndVarDef.c
+  UI.c
+C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\UI.c(31,70): warning C4029: declared formal parameter list different from definition
+  UpdateRec.c
+  Generating Code...
+  StellartonSolarTurnkeySystem.vcxproj -> C:\Users\shaon\source\ECED3401Task7\StellartonSolarTurnkeySystem\Debug\StellartonSolarTurnkeySystem.exe
